@@ -45,7 +45,7 @@ let URL = {};
 URL.blog =
   'https://www.bilibili.com/video/BV1QS4y1E7mS/?spm_id_from=333.999.0.0&vd_source=fe060784705738fc685ea37cd8994554';
 URL.ryanfloyd = 'https://huabyte.com';
-URL.fund = 'https://www.manamana.net/video/detail?id=2080259#!zh';
+URL.fund = 'https://shimo.im/docs/47kgJWXrmlunK7qV/';
 URL.gitHub = 'https://www.manamana.net/peopleCenter/2422924/home#!zh';
 URL.BiliBili = 'https://space.bilibili.com/168836189?spm_id_from=333.999.0.0';
 URL.email = '384801942@QQ.com';
